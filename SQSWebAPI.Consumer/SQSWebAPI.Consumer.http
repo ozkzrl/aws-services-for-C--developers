@@ -1,6 +1,0 @@
-@SQSWebAPI.Consumer_HostAddress = http://localhost:5062
-
-GET {{SQSWebAPI.Consumer_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
